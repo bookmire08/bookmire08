@@ -1,6 +1,6 @@
 ## Hi folks 👋
 
-My name is Curley Howard and I'm currently expanding my practical skills with SQL, R and Tableau
+My name is CJ Howard and I'm currently expanding my practical skills with SQL, R and Tableau
 
 I enjoy diving into data and exploring the different aspects and characteristics in order to better understand how to approach the business problem or domain
 
